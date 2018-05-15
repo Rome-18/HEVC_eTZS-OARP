@@ -1,0 +1,15 @@
+objects/NALread.d.o: \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.cpp \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/NAL.h
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.cpp :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibDecoder/NALread.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibDecoder/../../../../source/Lib/TLibCommon/NAL.h :

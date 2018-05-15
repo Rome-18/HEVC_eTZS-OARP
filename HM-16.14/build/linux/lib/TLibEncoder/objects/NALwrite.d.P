@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/paulo/Coders/HM-16.14/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :

@@ -1,0 +1,23 @@
+objects/TAppDecCfg.d.o: \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/paulo/Coders/HM-16.14/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :
